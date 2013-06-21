@@ -38,3 +38,10 @@ pool.empty();
 **Builds**
 
 https://github.com/ClickerMonkey/zource/tree/master/build
+
+**Projects using zource:**
+- [taskaroo](https://github.com/ClickerMonkey/taskaroo)
+- [falcon](https://github.com/ClickerMonkey/falcon)
+
+**Dependencies**
+- [curity](https://github.com/ClickerMonkey/curity)

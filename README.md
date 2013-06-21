@@ -36,8 +36,10 @@ pool.empty();
 ```
 
 **Builds**
-
-https://github.com/ClickerMonkey/zource/tree/master/build
+- [zource-1.0.0.jar](https://github.com/ClickerMonkey/zource/blob/master/build/zource-1.0.0.jar?raw=true)
+- [zource-src-1.0.0.jar](https://github.com/ClickerMonkey/zource/blob/master/build/zource-src-1.0.0.jar?raw=true) *- includes source code*
+- [zource-all-1.0.0.jar](https://github.com/ClickerMonkey/zource/blob/master/build/zource-1.0.0.jar?raw=true) *- includes all dependencies*
+- [zource-all-src-1.0.0.jar](https://github.com/ClickerMonkey/zource/blob/master/build/zource-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Projects using zource:**
 - [taskaroo](https://github.com/ClickerMonkey/taskaroo)

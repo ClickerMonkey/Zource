@@ -16,7 +16,7 @@ ResourceFactory<TaskService> factory = new ResourceFactory<TaskService>() {
 };
 
 // Create a pool of services for handling tasks and populate it.
-ResourcePool<TaskService> pool = new ResourcePool<Resource>(factory);
+ResourcePool<TaskService> pool = new ResourcePool<TaskService>(factory);
 pool.setMinCapacity(5);
 pool.setMaxCapacity(10);
 pool.setAllocateSize(5);

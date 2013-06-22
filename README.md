@@ -7,6 +7,9 @@ A Java library for pooling expensive resources.
 - A ResourcePool can return reusable resources (Resource implementation dependent) or can generate new resources if the pool doesn't have any currently available.
 - A ResourcePool can automatically downsize it's number of resources if the number of unused resources meets a specified number for a specified amount of time.
 
+**Documentation**
+- [JavaDoc](http://clickermonkey.github.com/zource/)
+
 **Example**
 
 ```java

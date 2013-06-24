@@ -8,7 +8,7 @@ A Java library for pooling expensive resources.
 - A ResourcePool can automatically downsize it's number of resources if the number of unused resources meets a specified number for a specified amount of time.
 
 **Documentation**
-- [JavaDoc](http://clickermonkey.github.com/zource/)
+- [JavaDoc](http://gh.magnos.org/?r=http://clickermonkey.github.com/zource/)
 
 **Example**
 
@@ -43,14 +43,14 @@ pool.empty();
 ```
 
 **Builds**
-- [zource-1.0.0.jar](https://github.com/ClickerMonkey/zource/blob/master/build/zource-1.0.0.jar?raw=true)
-- [zource-src-1.0.0.jar](https://github.com/ClickerMonkey/zource/blob/master/build/zource-src-1.0.0.jar?raw=true) *- includes source code*
-- [zource-all-1.0.0.jar](https://github.com/ClickerMonkey/zource/blob/master/build/zource-1.0.0.jar?raw=true) *- includes all dependencies*
-- [zource-all-src-1.0.0.jar](https://github.com/ClickerMonkey/zource/blob/master/build/zource-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
+- [zource-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/zource/blob/master/build/zource-1.0.0.jar?raw=true)
+- [zource-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/zource/blob/master/build/zource-src-1.0.0.jar?raw=true) *- includes source code*
+- [zource-all-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/zource/blob/master/build/zource-1.0.0.jar?raw=true) *- includes all dependencies*
+- [zource-all-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/zource/blob/master/build/zource-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Projects using zource:**
-- [taskaroo](https://github.com/ClickerMonkey/taskaroo)
-- [falcon](https://github.com/ClickerMonkey/falcon)
+- [taskaroo](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/taskaroo)
+- [falcon](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/falcon)
 
 **Dependencies**
-- [curity](https://github.com/ClickerMonkey/curity)
+- [curity](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/curity)

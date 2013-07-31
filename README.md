@@ -1,6 +1,8 @@
 zource
 ======
 
+![Stable](http://i4.photobucket.com/albums/y123/Freaklotr4/stage_stable.png)
+
 A Java library for pooling expensive resources.
 
 **Features**
